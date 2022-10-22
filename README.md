@@ -10,7 +10,7 @@
 
 ---
 ### Social media:
-<a href="https://instagram.com/maraka.exe" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="maraka.exe" height="40" width="40" /></a>
+<a href="https://instagram.com/maraka.exe" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="maraka.exe" height="80" width="80" /></a>
 ---
 ### Programs and things that I like to use:
 
