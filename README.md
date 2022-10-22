@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcASO1560&label=Profile%20views&color=green&style=flat" alt="MaraKa.exe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcASO1560&label=Profile%20views&color=green&style=flat-square" alt="MaraKa.exe" /> </p>
 <h1 align="center"><strong>Hello world! I'm Marc Albert Seguí Olmos :)</strong></h1>
 
 #### I'm a tinky winky programmer doing some rare programs only for fun and knowledge. Here you can find my projects that have no sense but for me are just fine.
