@@ -2,6 +2,10 @@
 <h1 align="center"><strong>Hello world! I'm Marc Albert Seguí Olmos :)</strong></h1>
 
 #### I'm a tinky winky programmer doing some rare programs only for fun and knowledge. Here you can find my projects that have no sense but for me are just fine.
+
+[![MarcASO1560 Most Udsed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcASO1560&layout=compact&theme=dark)](https://github.com/MarcASO1560/github-readme-stats)
+
+![MarcASO1560 GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcASO1560&show_icons=true&theme=dark)
 ---
 ### Social media:
 <a href="https://instagram.com/maraka.exe" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="maraka.exe" height="40" width="40" /></a>
@@ -15,6 +19,4 @@
 
 #### This is one of my little projects that I want to develop on a near future. Will be composed by a solid ideas of videogames that I have in my head but obviously I'm not going to show you what games I'm thinking of XD. What I'm going to show is the concept of diferent demos that I was working on. You will have access to repos soon. 
 ---
-[![MarcASO1560 Most Udsed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcASO1560&layout=compact&theme=dark)](https://github.com/MarcASO1560/github-readme-stats)
 
-![MarcASO1560 GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcASO1560&show_icons=true&theme=dark)
