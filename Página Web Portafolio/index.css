@@ -1,0 +1,89 @@
+@font-face {
+    font-family: Anthony;
+    src: url(fonts/Anthony/Anthony\ Hunter.ttf);
+}
+
+@font-face {
+    font-family: Caviar;
+    src: url(fonts/Caviar/CaviarDreams_Bold.ttf);
+}
+
+#navegador ul{
+    position:sticky;
+    position:fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    list-style-type: none;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 40px;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(244, 231, 244);
+    border-radius: 1px 1px 15px 15px;
+    padding: 20px;
+    box-shadow: #000 1px 1px 10px;
+}
+
+#navegador li{
+    float: left;
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+}
+
+#navegador li a {
+    font-family: Caviar;
+    padding: 4px 9px 4px 8px;
+    color: rgb(218, 194, 218);
+    background-color: #230021;
+    border: 4px solid rgb(218, 194, 218);
+    border-radius: 200px;
+    text-decoration: none;
+    box-shadow: #000 1px 1px 10px;
+}
+
+#navegador li a:hover{
+    background-color: #790073;
+    padding: 5px 10px 5px 9px;
+    color: rgb(218, 194, 218);
+    border: 5px solid rgb(218, 194, 218);
+    box-shadow: #000 1px 1px 20px;
+}
+
+table {
+    margin-top: 2cm;
+}
+
+img {
+    border: 10px solid rgb(218, 194, 218);
+    border-radius: 200px;
+    padding: 5px 5px;
+    box-shadow: 1px 1px 20px;
+    padding: 5px;
+}
+
+h1 {
+    color: rgb(218, 194, 218);
+    font-family: Anthony;
+    text-shadow: 1px 1px 6px black;
+}
+
+h2 {
+    font-family: Caviar;
+    text-align: center;
+    text-shadow: 1px 1px 6px black;
+}
+
+body {
+    background: rgb(85, 70, 85);
+}
+
+p {
+    background: rgb(31, 16, 31);
+    color: rgb(169, 132, 169);
+    font-family: Caviar;
+    border-radius: 0.5cm;
+    padding: 1cm;
+}
