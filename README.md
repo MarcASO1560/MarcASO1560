@@ -22,7 +22,7 @@
 
 ### Programs that I want to learn:
 
-<p align="left"><a href="https://www.w3schools.com/c/index.php"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/></a><a href="https://www.w3schools.com/cpp/default.asp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="55" height="60"/></a>
+<p align="left"><a href="https://www.w3schools.com/c/index.php"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/></a><a href="https://www.w3schools.com/cpp/default.asp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="55" height="60"/></a><a href="https://doc.rust-lang.org/book/print.html"><img src="https://i.imgur.com/Lp6bAvd.png" alt="RUST" width="90" height="60"/></a>
 
 ---
 
