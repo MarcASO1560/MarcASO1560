@@ -1,3 +1,4 @@
+<a href="https://instagram.com/maraka.exe" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="maraka.exe" height="20" width="20" /></a>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MarcASO1560&label=Profile%20views&color=green&style=flat-square" alt="MaraKa.exe" /> </p>
 <p align="center"><img src="https://acegif.com/wp-content/uploads/gifs/dancing-cat-18.gif" alt="Gato bailando" width="75" height="100"/></p>
 <h1 align="center"><strong>Hello world! I'm Marc Albert Seguí Olmos :)</strong></h1>
@@ -7,8 +8,4 @@
 
 ![MarcASO1560 GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcASO1560&show_icons=true&theme=dark)
 
----
-
-### Social media:
-<a href="https://instagram.com/maraka.exe" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="maraka.exe" height="80" width="80" /></a>
 
