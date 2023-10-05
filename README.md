@@ -10,6 +10,8 @@
 
 ![MarcASO1560 GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcASO1560&show_icons=true&theme=dark)
 
+---
+
 <p align="center"><img src="https://acegif.com/wp-content/uploads/gifs/dancing-cat-18.gif" alt="Gato bailando" width="75" height="100"/></p>
 
 
