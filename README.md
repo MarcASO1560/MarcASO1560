@@ -28,15 +28,6 @@
 ![](https://img.shields.io/badge/Code-Python-blue)
 ![](https://img.shields.io/badge/Tools-Docker-blue)
 
-## 📜 Recent Activity
-
-> - Pushed 2 commits to [repository](https://github.com/username/repository)
-> - Opened a pull request in [repository](https://github.com/username/repository)
-
-## 📈 Yearly Contribution Graph
-
-![MarcASO1560's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcASO1560&show_icons=true)
-
 ## 🏆 My Achievements
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MarcASO1560)
