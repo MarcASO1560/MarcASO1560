@@ -2,10 +2,6 @@
 
 # Hello world! I'm Marc Albert Seguí Olmos 🌍
 
-### A Tinky Winky programmer creating odd programs just for fun and knowledge. Here you'll find projects that might not make sense to everyone, but to me, they are just perfect!
-
----
-
 ## 🔧 What do I need to do to please any company
 
 > Here are the main technologies and tools I work with.
