@@ -16,11 +16,30 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcASO1560&layout=compact&theme=radical)](https://github.com/MarcASO1560/github-readme-stats)
 
-## 🎨 Customization
+## 🌟 Highlighted Projects
 
-<p align="center">
-  <img src="https://acegif.com/wp-content/uploads/gifs/dancing-cat-18.gif" alt="Dancing cat" width="75" height="100"/>
-</p>
+> Here are some of the projects I'm most proud of:
+>
+> - [My Project #1](https://github.com/username/repository)
+> - [My Project #2](https://github.com/username/repository)
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/Code-Python-blue)
+![](https://img.shields.io/badge/Tools-Docker-blue)
+
+## 📜 Recent Activity
+
+> - Pushed 2 commits to [repository](https://github.com/username/repository)
+> - Opened a pull request in [repository](https://github.com/username/repository)
+
+## 📈 Yearly Contribution Graph
+
+![MarcASO1560's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcASO1560&show_icons=true)
+
+## 🏆 My Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MarcASO1560)
 
 ---
 
