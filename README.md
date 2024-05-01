@@ -4,8 +4,6 @@
 
 ## 🔧 What do I need to do to please any company
 
-> Here are the main technologies and tools I work with.
-
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
@@ -45,13 +43,9 @@
 
 ## 🚀 My Stats
 
-> Check out my GitHub statistics!
-
 [![MarcASO1560 GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcASO1560&show_icons=true&theme=radical)](https://github.com/MarcASO1560/github-readme-stats)
 
 ## 📚 Most Used Languages
-
-> These are my most used languages in GitHub projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcASO1560&layout=compact&theme=radical)](https://github.com/MarcASO1560/github-readme-stats)
 
