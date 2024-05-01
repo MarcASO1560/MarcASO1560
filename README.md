@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 Technologies & Tools
+## 🔧 What do I need to do to please any company
 
 > Here are the main technologies and tools I work with.
 
